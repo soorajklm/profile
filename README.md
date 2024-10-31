@@ -1,6 +1,6 @@
 # SOORAJ RAJAGOPALAN
 
->Technical Architect | leveraging cutting-edge technologies to solve complex business challenges**
+>Technical Architect | leveraging cutting-edge technologies to solve complex business challenges
 
 Athlone, Ireland | +353 0892164553 | [sooraj.r@live.com](mailto:sooraj.r@live.com) | [https://www.linkedin.com/in/sooraj-rajagopalan/](https://www.linkedin.com/in/sooraj-rajagopalan/)
 
@@ -22,6 +22,7 @@ Skilled in planning, managing, coordinating, and executing projects. Excel in en
 **<u>E</u>XPERIENCE**
 
 **Senior Engineer | Ericsson LMI, Ireland | Jan 2023 – Present**
+
 At Ericsson, I specialize in the cloud capabilities of Ericsson Network Manager (ENM), a software suite that enables network operators to manage their 2G to 6G infrastructure through tools for monitoring, configuration, and optimization
 >
 >- **Requirement Analysis:** I gather and analyze the needs of customers and product owners to identify viable solutions.
@@ -31,6 +32,7 @@ At Ericsson, I specialize in the cloud capabilities of Ericsson Network Manager 
 >- **Documentation:** I produce technical study documents to guide ongoing development eﬀorts.
 
 **Senior Technical Architect | Visionet Systems Inc. India | Jul 2022 - Jan 2023**
+
 Solution and Integration Architect for Visionet’s Cloud App Development Portfolio.
 
 > - Act as the primary contact point for customers, comprehensively understanding their environment, identifying business opportunities, and proposing improvement strategies.
@@ -41,6 +43,7 @@ Solution and Integration Architect for Visionet’s Cloud App Development Portfo
 > - Provide coaching, mentoring, and inspiration to the team.
 
 **Lead Technical Architect | HCL Technologies Ltd. India | Jul 2019 - Jun 2022**
+
 Associated with HCL’s Product and Portfolio Vertical, with a broader vision of the product suit.
 
 >- Liaise with the Management, Product Owners, and Scrum Masters to identify the portfolios and prioritize them on par with the project goals
