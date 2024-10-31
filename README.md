@@ -19,7 +19,7 @@ Skilled in planning, managing, coordinating, and executing projects. Excel in en
 - React
 - DevOps
 
-**<u>E</u>XPERIENCE**
+**<u>E</u>XPERIENCES**
 
 **Senior Engineer | Ericsson LMI, Ireland | Jan 2023 – Present**
 
