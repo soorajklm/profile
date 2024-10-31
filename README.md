@@ -58,7 +58,7 @@ Associated with HCL’s Product and Portfolio Vertical, with a broader vision of
 
 - Chief Technology Officer | Antzlab Technologies Pvt. Ltd. India | Dec 2017 – Jul 2019
 - Delivery Consultant L3 | HP / HPE / DXC Technology, India | Jan 2009 – Dec 2017
-- Senior Engineer | Siemens Engineer, India | Jul 2006 – Jan 2009
+- Senior Engineer | Siemens Information Systems Ltd, India | Jul 2006 – Jan 2009
 - Network Engineer | Infinity Systems, India | Feb 2005 – Jul 2006
 - Service Engineer | e-info Systems, India | Nov 2002 – Feb 2005
 
